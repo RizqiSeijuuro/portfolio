@@ -212,10 +212,10 @@ input, select, textarea {
 /* BG */
 
 	#bg {
-		-moz-animation: bg 60s linear infinite;
-		-webkit-animation: bg 60s linear infinite;
-		-ms-animation: bg 60s linear infinite;
-		animation: bg 60s linear infinite;
+		-moz-animation: bg 30s linear infinite;
+		-webkit-animation: bg 30s linear infinite;
+		-ms-animation: bg 30s linear infinite;
+		animation: bg 30s linear infinite;
 		-moz-backface-visibility: hidden;
 		-webkit-backface-visibility: hidden;
 		-ms-backface-visibility: hidden;
@@ -804,6 +804,7 @@ input, select, textarea {
 		}
 
 		#bg {
+			background-size: 1500px auto;
 			width: 4500px;
 		} }
 
@@ -885,6 +886,7 @@ input, select, textarea {
 		}
 
 		#bg {
+			background-size: 750px auto;
 			width: 2250px;
 		} }
 
@@ -970,6 +972,7 @@ input, select, textarea {
 		}
 
 		#bg {
+			background-size: 700px auto;
 			width: 900px;
 		}
 
@@ -1067,6 +1070,7 @@ input, select, textarea {
 		}
 
 		#bg {
+			background-size: 700px auto;
 			width: 1237.5px;
 		}
 
